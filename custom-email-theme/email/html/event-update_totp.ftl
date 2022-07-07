@@ -52,8 +52,8 @@ ${kcSanitize(msg("eventUpdateTotpBodyHtml",event.date, event.ipAddress))?no_esc}
                             <tr>
                                 <td style="text-align: left; padding-left: 5px; padding-right: 5px;">
                                     <h3 class="heading">Contact Info</h3>
-                                    <span class="text">Silberburgstraße 11270176, Stuttgart</span>
-                                    <br><br><span class="text">Speyerer Straße 9067376, Harthausen</span>
+                                    <span class="text">Silberburgstraße 112 70176, Stuttgart</span>
+                                    <br><br><span class="text">Speyerer Straße 90 67376, Harthausen</span>
                                     <br><br><span class="text">+49 (0) 711 xxx xxxx</span>
                                 </td>
                             </tr>
